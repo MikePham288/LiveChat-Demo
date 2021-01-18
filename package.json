@@ -7,6 +7,10 @@
 		"start": "node server",
 		"dev": "nodemon server"
 	},
+	"engines": {
+		"node": "^12.18.3",
+		"npm": "^6.0.0"
+	},
 	"author": "Mike Pham",
 	"license": "MIT",
 	"dependencies": {
